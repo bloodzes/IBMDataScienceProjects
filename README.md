@@ -1,2 +1,2 @@
 # IBMDataScienceProjects
-assignments 
+assignments only
