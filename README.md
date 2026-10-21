@@ -1,2 +1,2 @@
 # IBMDataScienceProjects
-assignments only
+ for assignments completed throughout the course 
