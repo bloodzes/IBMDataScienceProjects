@@ -1,2 +1,2 @@
 # IBMDataScienceProjects
- for assignments completed throughout the course 
+ Repository for assignments/projects completed throughout the 12 courses 
